@@ -1,0 +1,12 @@
+1:lampara
+2:lapiz
+3:lobo
+4:loba
+5:pez
+6:polilla
+7:coche
+8:lomas
+9:paz
+10:amor
+11:julio
+
